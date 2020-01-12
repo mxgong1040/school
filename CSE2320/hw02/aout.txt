@@ -1,0 +1,8 @@
+1979,  564,   45,  663, 1157    comparisons = 2518
+ 335,  538,  180, 1078, 1240    comparisons = 2423
+1825, 1680,  459, 1354, 1639    comparisons = 2821
+ 833,   18, 1688,  726, 1561    comparisons = 2584
+ 829,  685,  107,   48, 1935    comparisons = 2404
+
+avg number of experiments = 2550.0
+        predicted average = 2574.0
