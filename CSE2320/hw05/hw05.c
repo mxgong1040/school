@@ -1,5 +1,4 @@
 /*Michelle Gong
-UTA ID 1001671203
 CSE 2320, Homework 05*/
 
 #include <stdio.h>
